@@ -1,4 +1,5 @@
 # API REST usando a linguagem PHP.
+API contruida na linguagem PHP com depedência: CoffeeCode\DataLayerm, e composer para facilitar a implatanção da denpedência.<br/>
 Configuração do Banco de dados:<br/>
 No diretório Source/config.php endite os campos para seu banco de dados:<br/>
 <br/>
