@@ -1,0 +1,19 @@
+{
+    "name": "luizoseas/mine-project",
+    "description": "API PHP",
+    "type": "project",
+    "require": {
+        "coffeecode/datalayer": "1.1.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "luizoseas",
+            "email": "oseaschagas-ap@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"Source\\": "Source/"}
+    }
+}
