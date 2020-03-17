@@ -3,9 +3,9 @@ define("DATA_LAYER_CONFIG", [
     "driver" => "mysql",
     "host" => "localhost",
     "port" => "3306",
-    "dbname" => "bancoapirest",
-    "username" => "luizoseas",
-    "passwd" => "12345678",
+    "dbname" => "database",
+    "username" => "username",
+    "passwd" => "password",
     "options" => [
         PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8",
         PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
